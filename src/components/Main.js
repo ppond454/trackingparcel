@@ -48,7 +48,7 @@ export default function Main() {
       {
         headers: {
           "Content-Type": "application/json",
-          "Tracktry-Api-Key": "e1f2cfee-1376-4c97-9a46-ffa027a6b4fa",
+          "Tracktry-Api-Key": "your key",
         },
       }
     )
@@ -62,7 +62,7 @@ export default function Main() {
       {
         headers: {
           "Content-Type": "application/json",
-          "Tracktry-Api-Key": "e1f2cfee-1376-4c97-9a46-ffa027a6b4fa",
+          "Tracktry-Api-Key": "your key",
         },
       }
     )
